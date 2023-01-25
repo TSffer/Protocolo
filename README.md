@@ -1,3 +1,3 @@
 # Protocolo
 Protocolo/RSA/GAMA
-Ecriptado con gamal y usa como firma digital una iganen que se encripta RGB con el RSA
+Encriptado con gamal y usa como firma digital una imagen que se encripta RGB con el RSA
